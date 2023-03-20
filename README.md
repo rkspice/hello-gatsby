@@ -44,4 +44,6 @@
 
 5. **This Repo**
 
-    Thhis repository is the result of following the [Gatsby tutorial](https://www.gatsbyjs.com/docs/tutorial/)
+    Visit this site at https://rkspice.github.io/hello-gatsby/
+    
+    This repository is the result of following the [Gatsby tutorial](https://www.gatsbyjs.com/docs/tutorial/)
